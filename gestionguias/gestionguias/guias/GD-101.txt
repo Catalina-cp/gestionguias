@@ -1,0 +1,4 @@
+Número Guía: GD-101
+Transportista: Starken
+Fecha: 2026-06-08
+Estado: GENERADA
